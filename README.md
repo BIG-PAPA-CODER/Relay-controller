@@ -37,7 +37,7 @@ This project implements a **battery-powered, low-power relay switching system** 
 ### Electrical Schematic
 
 The full schematic of the circuit, including power converters, MCU connections, and signal routing, is available here:
-[`schematic.pdf`](docs/schematic.pdf)
+[`scheme.pdf`](docs/scheme.pdf)
 
 ---
 
